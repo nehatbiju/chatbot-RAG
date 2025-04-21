@@ -18,12 +18,6 @@ Ask things like:
 -  Wikipedia-powered knowledge
 -  Semantic search via FAISS
 -  GPT-2-based answer generation
-- 🖥 Clean Streamlit UI
+-  Clean Streamlit UI
 
-##  Installation
-
-```bash
-git clone https://github.com/yourusername/movie-plot-qa-bot.git
-cd movie-plot-qa-bot
-pip install -r requirements.txt
 
